@@ -1,2 +1,4 @@
 Hi Good evening
 welcome to the class
+
+chaning in the local GIT
